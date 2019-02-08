@@ -29,8 +29,15 @@ public class Main {
         System.out.println("After that, ask if their birthday has occurred or not. \nIf not, add 1768, and if so, add 1769");
         System.out.println("My birthday has occurred, so I would add 1769 to get "+(total+numberBetween1768And1769)+".");
         System.out.println(" ");
-        total2 = 2419
+        total2 = 2419;
         System.out.println("Last, ask them for the birth year and and subtract that from the last answer");
         System.out.println("I was born in 2003, so I would subtract that from 2419 and get "+(total2-yearOfBirth));
+        System.out.println(" ");
+        System.out.println("At the end of all that you will get a weird number");
+        System.out.println("The first part of it is the number they choose at the beginning, \nand the rest is the age of that person.");
+        System.out.println("Don't be leave me? ");
+        System.out.println("416 was the last number I ended up with.");
+        System.out.println("The beginning number is 4, which I what I randomly picked, and \nthe last number is 16, which is my age.");
+        System.out.println("You can subtract the current year(2019) with the year I was born to confirm my age.");
     }
 }
