@@ -11,7 +11,8 @@ public class Main {
         //int yearOfBirth;
 
         System.out.println("I have a magic trick that you can use to impress your friends.\nLet me show you how it is done.");
-
+        System.out.println("--------------------------------------------------------------");
+        System.out.println("                                                              ");
         numberFromOneToNine = 4;
 
        // numberBetween1768And1769 = 1769;
