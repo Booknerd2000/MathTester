@@ -39,5 +39,9 @@ public class Main {
         System.out.println("416 was the last number I ended up with.");
         System.out.println("The beginning number is 4, which I what I randomly picked, and \nthe last number is 16, which is my age.");
         System.out.println("You can subtract the current year(2019) with the year I was born to confirm my age.");
+        System.out.println(" ");
+        System.out.println("--------------------------------------------------------------");
+        System.out.println("I hope you try this out on your friends. Oh and by the way \nthis only works for one year until the trick has to be altered.");
+        System.out.println("See ya next time on Koding with a K");
     }
 }
