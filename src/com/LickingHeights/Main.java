@@ -18,6 +18,7 @@ public class Main {
 
         yearOfBirth = 2003;
 
-        System.out.println("First ");
+        System.out.println("First, ask someone to pick a number from 1 to 9.");
+        System.out.println("For this example, i'm going to use the number"+numberFromOneToNine);
     }
 }
