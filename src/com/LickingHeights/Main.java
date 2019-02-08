@@ -8,16 +8,16 @@ public class Main {
 
         int numberFromOneToNine;
         int numberBetween1768And1769;
-        //int yearOfBirth;
-        int total;
+        int yearOfBirth;
+        int total, total2;
 
         System.out.println("I have a magic trick that you can use to impress your friends.\nLet me show you how it is done.");
         System.out.println("--------------------------------------------------------------");
         System.out.println("                                                              ");
 
         numberFromOneToNine = 4;
-       // numberBetween1768And1769 = 1769;
-        //yearOfBirth = 2003;
+        numberBetween1768And1769 = 1769;
+        yearOfBirth = 2003;
 
         System.out.println("First, ask someone to pick a number from 1 to 9.");
         System.out.println("For this example, i'm going to use the number "+numberFromOneToNine+".");
@@ -27,6 +27,10 @@ public class Main {
         total = 650;
         System.out.println(" ");
         System.out.println("After that, ask if their birthday has occurred or not. \nIf not, add 1768, and if so, add 1769");
-        System.out.println("My birthday has occurred, so I would add 1769 to get "+(total+1769));
+        System.out.println("My birthday has occurred, so I would add 1769 to get "+(total+numberBetween1768And1769)+".");
+        System.out.println(" ");
+        total2 = 2419
+        System.out.println("Last, ask them for the birth year and and subtract that from the last answer");
+        System.out.println("I was born in 2003, so I would subtract that from 2419 and get "+(total2+yearOfBirth));
     }
 }
