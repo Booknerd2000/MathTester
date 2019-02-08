@@ -13,5 +13,11 @@ public class Main {
         int yearOfBirth;
 
         keyboard = new Scanner(System.in)
+
+        numberFromOneToNine = keyboard.nextLine();
+
+        numberBetween1768And1769 = keyboard.nextLine();
+
+        yearOfBirth = keyboard.nextLine();
     }
 }
