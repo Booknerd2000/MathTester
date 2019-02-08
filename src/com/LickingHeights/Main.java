@@ -21,7 +21,8 @@ public class Main {
 
         System.out.println("First, ask someone to pick a number from 1 to 9.");
         System.out.println("For this example, i'm going to use the number "+numberFromOneToNine+".");
+        System.out.println(" ");
         System.out.println("The next thing to do is to add that number by 2, \nmultiply it by 5, and add it by 50 in that exact order.");
-        System.out.println("Doing that gave me "+((numberFromOneToNine+2)*5+50));
+        System.out.println("Doing that gave me "+((numberFromOneToNine+2)*5+50)+" as my number.");
     }
 }
