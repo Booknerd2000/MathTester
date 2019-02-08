@@ -31,6 +31,6 @@ public class Main {
         System.out.println(" ");
         total2 = 2419
         System.out.println("Last, ask them for the birth year and and subtract that from the last answer");
-        System.out.println("I was born in 2003, so I would subtract that from 2419 and get "+(total2+yearOfBirth));
+        System.out.println("I was born in 2003, so I would subtract that from 2419 and get "+(total2-yearOfBirth));
     }
 }
