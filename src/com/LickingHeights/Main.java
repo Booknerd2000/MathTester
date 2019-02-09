@@ -11,7 +11,7 @@ public class Main {
         int yearOfBirth;
         int total, total2;
 
-        System.out.println("I have a magic trick that you can use to impress your friends.\nLet me show you how its done.");
+        System.out.println("This is a magic trick that you can use to impress your friends.\nLet me show you how its done.");
         System.out.println("------------------------------------------------------------------------");
         System.out.println("                                                              ");
 
