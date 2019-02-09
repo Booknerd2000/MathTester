@@ -17,7 +17,13 @@ public class Main {
         firstnumber2 = 54;
         secondnumber2 = 14;
 
-        
+        System.out.println("Examples of:");
+        System.out.println("    Addition- 25+15="+(firstnumber+secondnumber));
+        System.out.println("    Subtraction- 25-15="+(firstnumber-secondnumber));
+        System.out.println("    Multiplication- 54*14="+(firstnumber2*secondnumber2));
+        System.out.println("    Division- 54/14="+(firstnumber2/secondnumber2));
+        System.out.println("    Division(with remainders)- 54/14="+(firstnumber2/secondnumber)+(".")+(firstnumber2%secondnumber));
+        System.out.println(" ");
 
         System.out.println("This is a magic trick that you can use to impress your friends.\nLet me show you how its done.");
         System.out.println("------------------------------------------------------------------------");
