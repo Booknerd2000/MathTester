@@ -6,25 +6,25 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int firstnumber, secondnumber, firstnumber2, secondnumber2;
+        int firstNumber, secondNumber, firstNumber2, secondNumber2;
         int numberFromOneToNine;
         int numberBetween1768And1769;
         int yearOfBirth;
         int total, total2;
 
-        firstnumber = 25;
-        secondnumber = 15;
-        firstnumber2 = 54;
-        secondnumber2 = 14;
+        firstNumber = 25;
+        secondNumber = 15;
+        firstNumber2 = 54;
+        secondNumber2 = 14;
 
         System.out.println("Their are many fun ways that math can be used.\n First you need to know the basic skills.");
         System.out.println(" ");
         System.out.println("Examples of:");
-        System.out.println("    Addition- 25+15="+(firstnumber+secondnumber));
-        System.out.println("    Subtraction- 25-15="+(firstnumber-secondnumber));
-        System.out.println("    Multiplication- 54*14="+(firstnumber2*secondnumber2));
-        System.out.println("    Division- 54/14="+(firstnumber2/secondnumber2));
-        System.out.println("    Division(with remainders)- 54/14="+(firstnumber2/secondnumber)+(".")+(firstnumber2%secondnumber));
+        System.out.println("    Addition- 25+15="+(firstNumber+secondNumber));
+        System.out.println("    Subtraction- 25-15="+(firstNumber-secondNumber));
+        System.out.println("    Multiplication- 54*14="+(firstNumber2*secondNumber2));
+        System.out.println("    Division- 54/14="+(firstNumber2/secondNumber2));
+        System.out.println("    Division(with remainders)- 54/14="+(firstNumber2/secondNumber)+(".")+(firstNumber2%secondNumber));
         System.out.println(" ");
         System.out.println("--------------------------------------------------------------------------------------------");
 
