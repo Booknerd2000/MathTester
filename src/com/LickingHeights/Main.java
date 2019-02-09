@@ -6,10 +6,18 @@ public class Main {
 
     public static void main(String[] args) {
 
+        int firstnumber, secondnumber, firstnumber2, secondnumber2;
         int numberFromOneToNine;
         int numberBetween1768And1769;
         int yearOfBirth;
         int total, total2;
+
+        firstnumber = 25;
+        secondnumber = 15;
+        firstnumber2 = 54;
+        secondnumber2 = 14;
+
+        
 
         System.out.println("This is a magic trick that you can use to impress your friends.\nLet me show you how its done.");
         System.out.println("------------------------------------------------------------------------");
