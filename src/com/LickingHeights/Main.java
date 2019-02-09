@@ -18,6 +18,7 @@ public class Main {
         secondnumber2 = 14;
 
         System.out.println("Their are many fun ways that math can be used.\n First you need to know the basic skills.");
+        System.out.println(" ");
         System.out.println("Examples of:");
         System.out.println("    Addition- 25+15="+(firstnumber+secondnumber));
         System.out.println("    Subtraction- 25-15="+(firstnumber-secondnumber));
@@ -25,10 +26,10 @@ public class Main {
         System.out.println("    Division- 54/14="+(firstnumber2/secondnumber2));
         System.out.println("    Division(with remainders)- 54/14="+(firstnumber2/secondnumber)+(".")+(firstnumber2%secondnumber));
         System.out.println(" ");
-        System.out.println("------------------------------------------------------------------------");
+        System.out.println("--------------------------------------------------------------------------------------------");
 
         System.out.println("This is a magic trick that you can use to impress your friends.\nLet me show you how its done.");
-        System.out.println("------------------------------------------------------------------------");
+        System.out.println("--------------------------------------------------------------------------------------------");
         System.out.println("                                                              ");
 
         numberFromOneToNine = 4;
@@ -56,8 +57,9 @@ public class Main {
         System.out.println("The beginning number is 4, which I what I randomly picked, and \nthe last number is 16, which is my age.");
         System.out.println("You can subtract the current year(2019) with the year I was born to confirm my age.");
         System.out.println(" ");
-        System.out.println("------------------------------------------------------------------------");
+        System.out.println("--------------------------------------------------------------------------------------------");
         System.out.println("I hope you try this out on your friends. Oh and by the way \nthis only works for one year until the trick has to get altered.");
         System.out.println("See ya next time on Koding with a K");
+        System.out.println("--------------------------------------------------------------------------------------------");
     }
 }
